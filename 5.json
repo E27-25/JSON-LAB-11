@@ -1,0 +1,26 @@
+{
+    "company": {
+      "name": "FalconWiz, Inc.",
+      "address": {
+        "street": "12345 Bird Road",
+        "city": "Internet",
+        "province": "ON",
+        "country": "Canada",
+        "postalCode": "L1C 4S5"
+      }
+    },
+    "invoice": {
+      "number": "123",
+      "date": "2016-10-18"
+    },
+    "payment": {
+      "method": "Credit"
+    },
+    "items": [
+      {
+        "description": "Video Games",
+        "price": 59.99
+      }
+    ],
+    "total": 59.99
+  }

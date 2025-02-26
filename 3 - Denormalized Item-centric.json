@@ -1,0 +1,67 @@
+[
+    {
+      "ItemID": 1,
+      "BillInfo": {
+        "BillID": 1,
+        "Country": "Thailand",
+        "Year": 2000,
+        "CustomerName": "Sara",
+        "BillAmount": 1100
+      },
+      "ProductName": "Pen",
+      "ProductPrice": 50,
+      "Quantity": 2
+    },
+    {
+      "ItemID": 2,
+      "BillInfo": {
+        "BillID": 1,
+        "Country": "Thailand",
+        "Year": 2000,
+        "CustomerName": "Sara",
+        "BillAmount": 1100
+      },
+      "ProductName": "Book",
+      "ProductPrice": 100,
+      "Quantity": 5
+    },
+    {
+      "ItemID": 3,
+      "BillInfo": {
+        "BillID": 1,
+        "Country": "Thailand",
+        "Year": 2000,
+        "CustomerName": "Sara",
+        "BillAmount": 1100
+      },
+      "ProductName": "Bag",
+      "ProductPrice": 500,
+      "Quantity": 1
+    },
+    {
+      "ItemID": 4,
+      "BillInfo": {
+        "BillID": 2,
+        "Country": "Japan",
+        "Year": 2000,
+        "CustomerName": "Alex",
+        "BillAmount": 900
+      },
+      "ProductName": "Shoe",
+      "ProductPrice": 200,
+      "Quantity": 2
+    },
+    {
+      "ItemID": 5,
+      "BillInfo": {
+        "BillID": 2,
+        "Country": "Japan",
+        "Year": 2000,
+        "CustomerName": "Alex",
+        "BillAmount": 900
+      },
+      "ProductName": "Bag",
+      "ProductPrice": 500,
+      "Quantity": 1
+    }
+  ]

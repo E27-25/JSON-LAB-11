@@ -1,0 +1,48 @@
+{
+  "countries": [
+    {
+      "CountryID": 1,
+      "CName": "Thailand"
+    },
+    {
+      "CountryID": 2,
+      "CName": "Japan"
+    }
+  ],
+  "years": [
+    {
+      "yearID": 1,
+      "Year": 1990
+    },
+    {
+      "yearID": 2,
+      "Year": 2000
+    }
+  ],
+  "customers": [
+    {
+      "CustID": 1,
+      "CustName": "Sara"
+    },
+    {
+      "CustID": 2,
+      "CustName": "Alex"
+    }
+  ],
+  "transactions": [
+    {
+      "ID": 1,
+      "CountryID": 1,
+      "YearID": 1,
+      "CustomerID": 1,
+      "Amount": 350
+    },
+    {
+      "ID": 2,
+      "CountryID": 2,
+      "YearID": 1,
+      "CustomerID": 2,
+      "Amount": 450
+    }
+  ]
+}
